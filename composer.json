@@ -1,5 +1,5 @@
 {
-	"name": "dominiksenti/calendarize-news",
+	"name": "lochmueller/calendarize-news",
 	"type": "typo3-cms-extension",
 	"description": "Add Event options to the news extension",
 	"autoload": {
